@@ -7,4 +7,4 @@ This is my code -> 🐒
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parkeymon&theme=radical&layout=compact)
 
-![stats](https://github-readme-stats.vercel.app/api/wakatime?username=Parkeymon&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api/wakatime?username=Parkeymon&theme=radical&layout=compact)
