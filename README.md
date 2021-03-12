@@ -1,6 +1,6 @@
 👋 Hi, I’m Parkeymon
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Parkeymon&repo=EXILED-SCP-SL-egg)]
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=Parkeymon&theme=dark)]
 
 This is my code -> 🐒
 (code is [monke](https://www.youtube.com/watch?v=bxqLsrlakK8))
